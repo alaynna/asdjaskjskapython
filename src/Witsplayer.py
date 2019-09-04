@@ -20,7 +20,7 @@ bindPort = 7080
 
 
 def main(argv):
-    print("Quest Demo")
+    print("Python Demo")
     bindPort = int(argv[0])
     interval = int(argv[1])
     file_to_open = data_folder / argv[2]

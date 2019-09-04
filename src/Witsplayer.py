@@ -1,6 +1,4 @@
 '''
-  Very simple Demo for Quest
-
 @author: Patrick Tsang
 '''
 import socket

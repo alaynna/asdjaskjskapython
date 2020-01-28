@@ -1,4 +1,4 @@
-# Little Python Demo
+# Little Python Demo Patrick Tsang
 
 This one is a very simple python demo, which listen to a TCP port and play back the data from file on fixed interval 
 to new connection.<br>
